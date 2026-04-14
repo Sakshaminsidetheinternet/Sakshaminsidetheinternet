@@ -1,10 +1,8 @@
-<!-- 🌈 ANIMATED HEADER -->
+<!-- 🌈 HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Saksham+Gupta;Tech+Enthusiast+%7C+Systems+Builder;Linux+%7C+AI+%7C+Automation;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Saksham+Gupta;Tech+Enthusiast+%7C+Systems+Builder;Linux+%7C+AI+%7C+Automation;Building+Real+World+Projects" />
 </p>
-
-<!-- 🌊 WAVE -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=header"/>
 
@@ -12,19 +10,11 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Linux-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interest-AI-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Build-Automation-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Learn_by_Doing-orange?style=for-the-badge"/>
-</p>
-
 ```json
 {
-  "role": "developer | tech enthusiast",
-  "working_on": "AI + Linux automation systems",
-  "goal": "build impactful real-world tools",
-  "status": "shipping > planning"
+  "focus": ["linux", "ai", "automation", "systems"],
+  "approach": "learning by building real projects",
+  "status": "actively shipping"
 }
 ```
 
@@ -33,57 +23,71 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,debian,git,docker,fastapi,pytorch&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,windows,arduino,raspberrypi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,debian,git,docker,fastapi,pytorch" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ⚡ Lightning (AI Voice Assistant)
+### ⚡ Core Systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-System%20Tool-blueviolet?style=for-the-badge"/>
-</p>
+🔹 **Lightning-Assistant-2.0**
 
-```bash
-> voice → command execution
-> llm integration → active
-> automation modules → running
-```
+> AI-powered Linux voice assistant
 
-* Linux-based AI assistant
-* Offline (Ollama) + Online (ChatGPT)
-* Automates workflows using Bash + Python
+* speech → command execution
+* offline + online LLM integration
+* automation workflows
 
----
+🔹 **linux_face_auth**
 
-### 🧠 AI Image Suggestion Tool
+> Face authentication system for Linux
 
-```python
-def analyze(image):
-    return "optimize_for_social_media"
-```
+* Python-based facial recognition
+* system-level login/security concept
 
-* OpenCV-based analysis
-* Suggests improvements & filters
+🔹 **OSINT-TOOLKIT**
+
+> Recon & OSINT toolkit
+
+* data gathering utilities
+* automation for investigation workflows
 
 ---
 
-### 🚧 Smart Barrier System
+### 🤖 AI & Backend
 
-```c
-if(vehicle_detected){
-    open_barrier();
-}
-```
+🔹 **AI-Social-media-post-advisor**
 
-🏆 District-level innovation winner
+> AI tool to optimize social media posts
+
+🔹 **FastAPI-project**
+
+> Backend API project using FastAPI
+
+🔹 **Movie-recommendor**
+
+> Recommendation system using Python
+
+---
+
+### ⚙️ Automation & Utilities
+
+🔹 **water-reminder**
+
+> CLI-based hydration reminder (Shell)
+
+🔹 **fake-wifi-generator**
+
+> Network simulation / testing tool
+
+---
+
+### 🧪 Experimental / Learning
+
+🔹 **linux-face-auth (older version)**
+🔹 **lightning-assistant (initial version)**
 
 ---
 
@@ -109,8 +113,8 @@ if(vehicle_detected){
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Internals-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI-Agents-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-Bash-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-Bash-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-FastAPI-orange?style=flat-square"/>
 </p>
 
 ---
@@ -121,6 +125,7 @@ if(vehicle_detected){
 while True:
     learn()
     build()
+    deploy()
     improve()
 ```
 
@@ -138,7 +143,5 @@ while True:
 </p>
 
 ---
-
-<!-- 🌊 FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer"/>
