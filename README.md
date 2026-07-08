@@ -1,106 +1,90 @@
-<!-- 🌈 HEADER -->
+<div align="center">
+<pre align="center">
+ ▄▄▄▄ ▄▄▄▄▄ ▄  ▄ ▄▄▄▄▄ ▄  ▄  ▄▄▄  ▄   ▄ 
+█    ▀█   █ █ █  █     █  █ █   █ █▄▄▄█ 
+ ▀▄▄  █▄▄▄█ █▀▄   ▀▄▄  █▄▄█ █▄▄▄█ █ █ █ 
+▄    ██   █ █  █ ▄    ██  █ █   █ █   █ 
+ ▀▀▀▀ ▀   ▀ ▀  ▀  ▀▀▀▀ ▀  ▀ ▀   ▀ ▀   ▀ 
+</pre>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Saksham+Gupta;Tech+Enthusiast+%7C+Systems+Builder;Linux+%7C+AI+%7C+Automation;Building+Real+World+Projects" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SYSTEMS+BUILDER;LINUX+%7C+AI+%7C+AUTOMATION;BUILDING+REAL+WORLD+PROJECTS" alt="Typing SVG" /> 
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=header"/>
-
----
-
-## 🧠 About Me
-
-```json
-{
-  "focus": ["linux", "ai", "automation", "systems"],
-  "approach": "learning by building real projects",
-  "status": "actively shipping"
-}
-```
+<div align="center">
+  <img width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
 
 ---
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,debian,git,docker,fastapi,pytorch" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ Core Systems
-
-🔹 **Lightning-Assistant-2.0**
-
-> AI-powered Linux voice assistant
-
-* speech → command execution
-* offline + online LLM integration
-* automation workflows
-
-🔹 **linux_face_auth**
-
-> Face authentication system for Linux
-
-* Python-based facial recognition
-* system-level login/security concept
-
-🔹 **OSINT-TOOLKIT**
-
-> Recon & OSINT toolkit
-
-* data gathering utilities
-* automation for investigation workflows
+### 👤 About Me 
+* 🔭 I’m currently building **Lightning-Assistant-2.0** & **linux_face_auth**
+* 🌱 I’m deeply focused on **Linux Internals, AI Agents & Automation**
+* 💬 Let's talk about **Systems Architecture, Python, and Bash Workflows**
+* 🚀 My approach: `while True: learn(), build(), deploy(), improve()`
 
 ---
 
-### 🤖 AI & Backend
-
-🔹 **AI-Social-media-post-advisor**
-
-> AI tool to optimize social media posts
-
-🔹 **FastAPI-project**
-
-> Backend API project using FastAPI
-
-🔹 **Movie-recommendor**
-
-> Recommendation system using Python
+### 🛠️ Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,debian,git,docker,fastapi,pytorch" />
+  </a>
+</div>
 
 ---
 
-### ⚙️ Automation & Utilities
-
-🔹 **water-reminder**
-
-> CLI-based hydration reminder (Shell)
-
-🔹 **fake-wifi-generator**
-
-> Network simulation / testing tool
+## 📈 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sakshaminsidetheinternet/Sakshaminsidetheinternet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-### 🧪 Experimental / Learning
+### 🚀 Featured Projects
 
-🔹 **linux-face-auth (older version)**
-🔹 **lightning-assistant (initial version)**
+## ⚡ Core Systems
+
+> **Lightning-Assistant-2.0**  
+> *AI-powered Linux voice assistant*
+- **Features:** Speech-to-command execution • Offline/online LLM workflows.
+- **Tech:** Python, Shell, LLMs.
+
+> **linux_face_auth**  
+> *Biometric security layer for Linux systems*
+- **Features:** Python-based facial recognition built for system-level login concepts.
+- **Tech:** Python, OpenCV, Linux PAM interface.
+
+> **OSINT-TOOLKIT**  
+> *Automated intelligence & reconnaissance suite*
+- **Features:** High-speed data gathering utilities and automated investigation workflows.
+- **Tech:** Python, Bash, OSINT Frameworks.
 
 ---
 
-## 📊 GitHub Analytics
+## 🤖 AI & Backend
 
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **AI-Social-Media-Advisor** | Smart optimization engine to boost post engagement metrics. | Python, LLM API |
+| **FastAPI-Project** | High-performance, production-ready REST API architecture. | FastAPI, Docker |
+| **Movie-Recommendor** | Machine learning engine utilizing collaborative filtering. | Python, Scikit-Learn |
+
+---
+
+## ⚙️ Automation & Utilities
+
+* 💧 **water-reminder** — `<kbd>Shell</kbd>` Automated lightweight CLI-based hydration scripts.
+* 🌐 **fake-wifi-generator** — `<kbd>Python</kbd>` Network simulation environment for security testing.
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakshaminsidetheinternet&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshaminsidetheinternet&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshaminsidetheinternet&theme=tokyo-night&hide_border=true"/>
@@ -108,40 +92,18 @@
 
 ---
 
-## 🧭 Current Focus
+### 🤝 Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/saksham-gupta-9b1047263" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sakshaminsidetheinternet" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Internals-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-Agents-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-Bash-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-FastAPI-orange?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Sakshaminsidetheinternet&color=79c83d&style=flat-square&label=VISITORS" alt="Visitors" />
 </p>
-
----
-
-## 🧬 Dev Loop
-
-```python
-while True:
-    learn()
-    build()
-    deploy()
-    improve()
-```
-
----
-
-## 📡 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/saksham-gupta-9b1047263">
-    <img src="https://img.shields.io/badge/LinkedIn-Saksham-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Sakshaminsidetheinternet">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer"/>
