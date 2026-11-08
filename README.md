@@ -1,110 +1,82 @@
 <div align="center">
-<pre align="center">
- ▄▄▄▄ ▄▄▄▄▄ ▄  ▄ ▄▄▄▄▄ ▄  ▄  ▄▄▄  ▄   ▄ 
-█    ▀█   █ █ █  █     █  █ █   █ █▄▄▄█ 
- ▀▄▄  █▄▄▄█ █▀▄   ▀▄▄  █▄▄█ █▄▄▄█ █ █ █ 
-▄    ██   █ █  █ ▄    ██  █ █   █ █   █ 
- ▀▀▀▀ ▀   ▀ ▀  ▀  ▀▀▀▀ ▀  ▀ ▀   ▀ ▀   ▀ 
-</pre>
+
+# Saksham Gupta
+
+**CSE (Data Science) Student · Systems & Cybersecurity Enthusiast · Builder**
+
+I enjoy building practical software at the intersection of **Linux, cybersecurity, AI, and automation** — from developer tools to real-world prototypes.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sakshaminsidetheinternet-181717?style=flat&logo=github)](https://github.com/Sakshaminsidetheinternet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/saksham-gupta-9b1047263)
+
 </div>
+
+---
+
+## About
+
+- 🎓 B.Tech student in **Computer Science & Engineering (Data Science)**.
+- 🐧 Interested in **Linux internals, system tools, and automation**.
+- 🔐 Exploring **cybersecurity, network security, and ethical security testing**.
+- 🤖 Building with **Python, FastAPI, AI/LLM APIs, and computer vision**.
+- 🧩 I like learning by shipping projects, testing ideas, and improving them.
+
+## Featured projects
+
+A selection of projects across the areas I work on:
+
+| Project | What it is |
+|---|---|
+| [**Emergency Tracking Network**](https://github.com/Sakshaminsidetheinternet/Emergency_Tracking_Network) | Emergency vehicle tracking and coordination prototype. |
+| [**VocabReady**](https://github.com/Sakshaminsidetheinternet/Vocab-Ready) | English vocabulary and speaking-practice platform. |
+| [**DigiSahay**](https://github.com/Sakshaminsidetheinternet/DigiSahay) | Civic-focused digital platform project. |
+| [**Free_Bite**](https://github.com/Sakshaminsidetheinternet/Free_Bite) | Food-sharing project. |
+| [**Lightning Assistant**](https://github.com/Sakshaminsidetheinternet/Lightning-Assistant-2.0) | Linux-oriented voice assistant with AI integrations. |
+| [**OSINT-TOOLKIT**](https://github.com/Sakshaminsidetheinternet/OSINT-TOOLKIT) | Utilities for open-source intelligence workflows. |
+| [**Linux Face Auth**](https://github.com/Sakshaminsidetheinternet/linux_face_auth) | Linux facial-authentication experiment. |
+| [**Fake Wi-Fi Generator**](https://github.com/Sakshaminsidetheinternet/fake-wifi-generator) | Wi-Fi/network simulation project for a controlled security-learning environment. |
+
+> These are project snapshots, not claims that every project is production-ready. Check each repository for its current implementation and setup instructions.
+
+## Tech I work with
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SYSTEMS+BUILDER;LINUX+%7C+AI+%7C+AUTOMATION;BUILDING+REAL+WORLD+PROJECTS" alt="Typing SVG" /> 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 </div>
+
+## GitHub activity
 
 <div align="center">
-  <img width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshaminsidetheinternet&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakshaminsidetheinternet&theme=transparent&hide_border=true)
+
 </div>
 
----
+### Repository traffic
 
-### 👤 About Me 
-* 🔭 I’m currently building **Lightning-Assistant-2.0** & **linux_face_auth**
-* 🌱 I’m deeply focused on **Linux Internals, AI Agents & Automation**
-* 💬 Let's talk about **Systems Architecture, Python, and Bash Workflows**
-* 🚀 My approach: `while True: learn(), build(), deploy(), improve()`
+I also maintain a small project to collect GitHub repository views, clones, referrers, and daily snapshots.
 
----
+[**GitHub Traffic Tracker →**](https://github.com/Sakshaminsidetheinternet/GitHub-Traffic-Tracker)
 
-### 🛠️ Tech Stack
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/saksham-gupta-9b1047263)
+- [GitHub](https://github.com/Sakshaminsidetheinternet)
+- [LeetCode](https://leetcode.com/u/nHQ8y1jMeV/)
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,debian,git,docker,fastapi,pytorch" />
-  </a>
+
+*Learn continuously. Build thoughtfully. Improve through iteration.*
+
 </div>
-
----
-
-### 🚀 Featured Projects
-
-#### ⚡ Core Systems
-
-> **Lightning-Assistant-2.0**  
-> *AI-powered Linux voice assistant*
-- **Features:** Speech-to-command execution • Offline/online LLM workflows.
-- **Tech:** `Python` `Shell` `LLMs`
-
-> **linux_face_auth**  
-> *Biometric security layer for Linux systems*
-- **Features:** Python-based facial recognition built for system-level login concepts.
-- **Tech:** `Python` `OpenCV` `Linux PAM`
-
-> **OSINT-TOOLKIT**  
-> *Automated intelligence & reconnaissance suite*
-- **Features:** High-speed data gathering utilities and automated investigation workflows.
-- **Tech:** `Python` `Bash` `OSINT Frameworks`
-
-#### 🤖 AI & Backend
-
-| Project | Description | Core Stack |
-| :--- | :--- | :--- |
-| **AI-Social-Media-Advisor** | Smart optimization engine to boost post engagement metrics. | `Python` `LLM API` |
-| **FastAPI-Project** | High-performance, production-ready REST API architecture. | `FastAPI` `Docker` |
-| **Movie-Recommendor** | Machine learning engine utilizing collaborative filtering. | `Python` `Scikit-Learn` |
-
-#### ⚙️ Automation & Utilities
-
-* 💧 **water-reminder** — `<kbd>Shell</kbd>` Automated lightweight CLI-based hydration scripts.
-* 🌐 **fake-wifi-generator** — `<kbd>Python</kbd>` Network simulation environment for security testing.
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshaminsidetheinternet&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshaminsidetheinternet&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshaminsidetheinternet&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### 🧠 Coding Metrics & Problem Solving
-<p align="center">
-  <a href="https://leetcode.com/u/nHQ8y1jMeV/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=nHQ8y1jMeV&theme=Dark" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect
-<div align="center">
-  <a href="https://linkedin.com/in/saksham-gupta-9b1047263" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Sakshaminsidetheinternet" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/nHQ8y1jMeV/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshaminsidetheinternet&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
-</p>
